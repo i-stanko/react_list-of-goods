@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/components/GoodsList/GoodsList.module.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,uBACE,aAAiB,CACjB,eACF","file":"main.ace284da.chunk.css","sourcesContent":[".btn {\n  margin-right: 10px;\n}\n",".list {\n  color: blueviolet;\n  list-style: none;\n}\n"]}
